@@ -1,0 +1,58 @@
+import 'package:ecommerce_app/Model/category_Items/product_list.dart';
+
+List<Product> products = [
+  Product(
+      name: "Nike Air Force 1",
+      brand: "Nike",
+      category: "Sneakers",
+      rating: 4.7,
+      reviews: 210,
+      description: "First class Sneakers ",
+      image: "assets/Icons/nike.png",
+      price: 2500),
+  Product(
+      name: "Nike Air Force 2",
+      brand: "Nike",
+      category: "Sneakers",
+      rating: 4.7,
+      reviews: 210,
+      description: "First class Sneakers ",
+      image: "assets/Icons/nike.png",
+      price: 2500),
+  Product(
+      name: "Nike Air Force 3",
+      brand: "Nike",
+      category: "Sneakers",
+      rating: 4.7,
+      reviews: 210,
+      description: "First class Sneakers ",
+      image: "assets/Icons/nike.png",
+      price: 2500),
+  Product(
+      name: "Nike Air Force 4",
+      brand: "Nike",
+      category: "Sneakers",
+      rating: 4.7,
+      reviews: 210,
+      description: "First class Sneakers ",
+      image: "assets/Icons/nike.png",
+      price: 2500),
+  Product(
+      name: "Nike Air Force 5",
+      brand: "Nike",
+      category: "Sneakers",
+      rating: 4.7,
+      reviews: 210,
+      description: "First class Sneakers ",
+      image: "assets/Icons/nike.png",
+      price: 2500),
+  Product(
+      name: "Nike Air Force 6",
+      brand: "Nike",
+      category: "Sneakers",
+      rating: 4.7,
+      reviews: 210,
+      description: "First class Sneakers ",
+      image: "assets/Icons/nike.png",
+      price: 2500),
+];
